@@ -1,2 +1,0 @@
-Concatenação 
-+ ou ``
